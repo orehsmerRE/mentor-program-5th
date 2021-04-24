@@ -1,6 +1,9 @@
-# 程式導師實驗計畫第五期
+# 程式導師實驗計畫第五期 Peter Liao
 
-（第五期課綱還在調整中，現在看到的不是最終版）
+年屆三十、肄業又待業的 Peter 執行程式導師實驗計畫第五期之紀錄。
+
+此 Repository 直接從[原計畫](https://github.com/Lidemy/mentor-program-5th) Fork 而來，
+再由 Peter 進行作業上傳、學習進度確認以及撰寫每日心得。
 
 ## 這是什麼
 
